@@ -473,9 +473,9 @@ const App = _ =>{
                 textAlign: 'center',
                 padding: '40px 20px',      
                 minHeight: '100vh'          
-          }}>
+          }}>     
           <img 
-                src={imagenes.img7} 
+                src={imagenes.img03} 
                 alt='Descripcion'
                 style={{ 
                 width: '500px', 
@@ -485,7 +485,12 @@ const App = _ =>{
                 boxShadow: '0px 10px 20px rgba(0,0,0,0.2)' //Para que se vea asthetic xd
           }}
           />
-         <div>
+         <div style={{
+                display: 'flex',
+                flexDirection: 'column',
+                flex:1,
+                padding: '40px 20px',
+          }}>
            <span style={{ 
                 fontWeight: 'bold',
                 fontSize: '45px',           //Tamaño del titulo we
@@ -540,7 +545,7 @@ const App = _ =>{
                 fontSize: '16px',
                 fontFamily: 'Arial, sans-serif'
           }}>
-            Creado por Alexander Milton Franco Melchor
+            Creado por Alexnander Milton Franco Melchor
           </span>
           </div>
                   

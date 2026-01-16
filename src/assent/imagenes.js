@@ -8,6 +8,7 @@ import img7 from'./img7.jpg';
 import img8 from'./img8.jpg';
 import img9 from'./img9.jpg';
 import img10 from'./img10.jpg';
+import img03 from'./img03.jpeg';
 
  const imagenes = {
     "img1": img1,
@@ -19,8 +20,8 @@ import img10 from'./img10.jpg';
     "img7": img7,
     "img8": img8,
     "img9": img9,
-    "img10":img10
-    
+    "img10":img10,
+    "img03":img03,
 
 };
 export default imagenes;
