@@ -527,8 +527,23 @@ const App = _ =>{
           </span>
          </div>
           </div>
-          
-          
+          <div style={{ 
+                display: 'flex', 
+                justifyContent: 'center', 
+                width: '100%', 
+                padding: '20px 0' 
+          }}>
+          <span style={{ 
+                color: '#228B22',      
+                fontWeight: 'bold', 
+                textAlign: 'center',
+                fontSize: '16px',
+                fontFamily: 'Arial, sans-serif'
+          }}>
+            Creado por Alexander Milton Franco Melchor
+          </span>
+          </div>
+                  
 
       
 
