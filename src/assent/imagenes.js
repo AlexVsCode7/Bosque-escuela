@@ -9,7 +9,7 @@ import img8 from'./img8.jpg';
 import img9 from'./img9.jpg';
 import img10 from'./img10.jpg';
 
-export default {
+ const imagenes = {
     "img1": img1,
     "img2": img2,
     "img3": img3,
@@ -22,4 +22,5 @@ export default {
     "img10":img10
     
 
-}
+};
+export default imagenes;
